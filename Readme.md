@@ -1,6 +1,6 @@
 # README
 
-If you are looking for 中文文档？Reference to 【Readme(CH).md】
+If you are looking for 中文文档？Reference to 【[Readme(CH).md](https://github.com/blogdefotsec/Simscape-Pendulum-Control/blob/main/README%EF%BC%88CH%EF%BC%89.md)】
 
 ## Simscape-based Momentum Wheel Controlled Pendulum Simulation System
 
