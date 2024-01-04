@@ -18,7 +18,7 @@ The model contains a complete motor and pendulum model for further development. 
 
 ## Demo Video
 
-To be uploaded soon...
+[Bilibili](https://www.bilibili.com/video/BV1hi4y1z7Hh/)
 
 ## Dependencies
 
