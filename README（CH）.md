@@ -16,7 +16,7 @@
 
 ## 演示视频
 
-稍后上传……
+[Bilibili](https://www.bilibili.com/video/BV1hi4y1z7Hh/)
 
 ## 依赖
 
